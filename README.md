@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Khushi Patel 👋
 
-<!--
-**khushipatel08/khushipatel08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science Engineering student at Bansal College of Engineering, interested in software development and emerging technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** C, C++ (basic)
+- **Concepts:** Data Structures & Algorithms, Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Data Structure Visualizer (Minor Project)
+An interactive visualizer, built using C and C++, that shows how fundamental data structures work.
+- Visualizes insertion, deletion, searching and traversal
+- Uses graphics and step-by-step execution to explain the operations
+
+### AI-Based Waste Management System (Team Project)
+A collaborative project for BGI Hackathon 2026 (Vision: Viksit Bharat).
+- Classifies waste as organic, plastic, metal or e-waste, with disposal suggestions and a complaint dashboard
+- **Project tech stack:** Flask, TensorFlow (MobileNetV2), SQLite
+- [View team repository](https://github.com/monikagurbani444-afk/smart-waste-management)
+
+## 🏆 Achievements
+- Reached the final round of an AI & Machine Learning hackathon
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/khushi-patel-892835336)
+- [Email](mailto:08khushipatel.83@gmail.com)
